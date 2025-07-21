@@ -1,6 +1,6 @@
 {
-    "name": "RosieDark",
-    "description": "same good old Rosie theme but dark :3 (Port of Enmity theme) Thanks Rosie<3 | Edited with custom background",
+    "name": "RosieDark Madoka",
+    "description": "RosieDark with Madoka background",
     "version": "1",
     "authors": [
         {
@@ -347,28 +347,28 @@
         "WHITE_630": "#776767"
     },
     "fonts": {
-        "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-ExtraBold.ttf?raw=1",
-        "ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Bold.ttf?raw=1",
-        "ggsans-BoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-BoldItalic.ttf?raw=1",
-        "ggsans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-ExtraBold.ttf?raw=1",
-        "ggsans-ExtraBoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-ExtraBoldItalic.ttf?raw=1",
-        "ggsans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Medium.ttf?raw=1",
-        "ggsans-MediumItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-MediumItalic.ttf?raw=1",
-        "ggsans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Normal.ttf?raw=1",
-        "ggsans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-NormalItalic.ttf?raw=1",
-        "ggsans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1",
-        "ggsans-SemiboldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBoldItalic.ttf?raw=1",
-        "NotoSans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Bold.ttf?raw=1",
-        "NotoSans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-ExtraBold.ttf?raw=1",
-        "NotoSans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Medium.ttf?raw=1",
-        "NotoSans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Normal.ttf?raw=1",
-        "NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-NormalItalic.ttf?raw=1",
-        "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1",
-        "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1"
+        "ABCGintoNord-ExtraBold": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-ExtraBold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-ExtraBold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-ExtraBoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-Normal.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-NormalItalic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBoldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-Normal.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-NormalItalic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/Alysara/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1"
     },
     "background": {
         "blur": 0.1,
-        "url": "https://github.com/Alysara/Discord-Theme/blob/main/Wallpapers/madoka_spooky.png",
+        "url": "https://github.com/Alysara/Discord-Theme/blob/main/Wallpapers/madoka_spooky.jpeg",
         "OPACITY": 0
     },
     "plus": {
