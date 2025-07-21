@@ -130,7 +130,7 @@
             "#FFEFFF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#000000"
+            "#FFFFFF"
         ],
         "INTERACTIVE_HOVER": [
             "#DEDCDE"
@@ -178,7 +178,7 @@
             "#f44444"
         ],
         "STATUS_DANGER_TEXT": [
-            "#000000"
+            "#FFFFFF"
         ],
         "POLLS_NORMAL_FILL_HOVER": [
             "#1c181f"
@@ -244,7 +244,7 @@
         "BRAND_630": "#a1647f",
         "BRAND_660": "#995f79",
         "BRAND_700": "#8f5971",
-        "BRAND_730": "#000000",
+        "BRAND_730": "#FFFFFF",
         "PLUM_1": "#F4F3F3",
         "PLUM_10": "#918181",
         "PLUM_11": "#807070",
@@ -263,12 +263,12 @@
         "PLUM_4": "#e5dcdc",
         "PLUM_6": "#cec6c6",
         "PLUM_9": "#a59090",
-        "PRIMARY_100": "#000000",
-        "PRIMARY_200": "#000000",
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_200": "#FFFFFF",
         "PRIMARY_300": "#f48fb1",
         "PRIMARY_330": "#FCFDFC",
         "PRIMARY_360": "#fcfdfc",
-        "PRIMARY_400": "#000000",
+        "PRIMARY_400": "#FFFFFF",
         "PRIMARY_460": "#2b232f",
         "PRIMARY_500": "#e68cbf",
         "PRIMARY_530": "#d46ea7",
