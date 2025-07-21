@@ -369,7 +369,7 @@
     "background": {
         "blur": 0.1,
         "url": "https://github.com/Alysara/Discord-Theme/blob/main/Wallpapers/madoka_spooky.png?raw=1",
-        "OPACITY": 0,
+        "OPACITY": 0.5,
         "alpha": 1
     },
     "plus": {
