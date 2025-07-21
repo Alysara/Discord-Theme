@@ -263,8 +263,8 @@
         "PLUM_4": "#e5dcdc",
         "PLUM_6": "#cec6c6",
         "PLUM_9": "#a59090",
-        "PRIMARY_100": "#FFFFFF",
-        "PRIMARY_200": "#ffffff",
+        "PRIMARY_100": "#000000",
+        "PRIMARY_200": "#000000",
         "PRIMARY_300": "#f48fb1",
         "PRIMARY_330": "#FCFDFC",
         "PRIMARY_360": "#fcfdfc",
@@ -369,7 +369,7 @@
     "background": {
         "blur": 0.1,
         "url": "https://github.com/Alysara/Discord-Theme/blob/main/Wallpapers/madoka_spooky.png?raw=1",
-        "OPACITY": 50,
+        "OPACITY": 0,
         "alpha": 1
     },
     "plus": {
